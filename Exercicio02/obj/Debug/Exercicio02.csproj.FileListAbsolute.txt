@@ -1,0 +1,9 @@
+C:\Users\aluno\source\repos\Exercicio02\obj\Debug\Exercicio02.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\Exercicio02\obj\Debug\Exercicio02.Form1.resources
+C:\Users\aluno\source\repos\Exercicio02\obj\Debug\Exercicio02.Properties.Resources.resources
+C:\Users\aluno\source\repos\Exercicio02\obj\Debug\Exercicio02.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Exercicio02\bin\Debug\Exercicio02.exe.config
+C:\Users\aluno\source\repos\Exercicio02\bin\Debug\Exercicio02.exe
+C:\Users\aluno\source\repos\Exercicio02\bin\Debug\Exercicio02.pdb
+C:\Users\aluno\source\repos\Exercicio02\obj\Debug\Exercicio02.exe
+C:\Users\aluno\source\repos\Exercicio02\obj\Debug\Exercicio02.pdb
